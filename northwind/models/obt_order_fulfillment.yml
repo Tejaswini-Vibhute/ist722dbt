@@ -1,0 +1,4 @@
+version: 2
+models:
+  - name: obt_order_fulfillment
+    description: The order fulfillment fact table combined with all of itsoutrigger dimensions into one bit table. Transaction fact table with onerow per order does not include product.
